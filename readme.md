@@ -5,3 +5,5 @@ Forma studiów: Stacjonarne/
 Kierunek: Informaryka stosowana
 Grupa: 8
 Student: Jakub Witenberg
+
+
